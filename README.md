@@ -8,4 +8,6 @@ Utilizei uma rede já pré treinada da Resnet, pyTorch e o ambiente de desenvolv
 
 As libs externas são instaladas pelo proprío Colab utilziando o PiP install.
 
+o notebook 'Produçao_de_imagens.ipynb' foi utilizado para a criação do dataset.
+
 Aluno: Victor Macaúbas
